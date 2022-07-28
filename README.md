@@ -6,7 +6,7 @@ Quarantine & Security Robot
 
 # Team
 ## HW
-Chunggil An : Team leader, Motor Control  
+[Chunggil An](https://github.com/chunggilan) : Team leader, Motor Control  
 [Ohyun Kwon](https://github.com/OhyunKwon99) : Design, Embeded System
 ## SW
 [Kijin Lee](https://github.com/Daidalos99) : LiDAR SLAM, Sensor Communication  
