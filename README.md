@@ -11,7 +11,7 @@ Quarantine & Security Robot
 ## SW
 [Kijin Lee](https://github.com/Daidalos99) : LiDAR SLAM, Sensor Communication  
 [Jiwon Yang](https://github.com/ynji1) : Robot Navigation, Sensor Communication  
-[Sanghyun Park](https://github.com/SanghyunPark01) : Moving Object Perception, Vison System  
+[Sanghyun Park](https://github.com/SanghyunPark01) : Moving Object Perception, Vision System  
 
 # Architecture
 ## Design
