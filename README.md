@@ -21,7 +21,7 @@ Quarantine & Security Robot
 |<p align="center"><img src="image/HW_Robot.png" width="800px"></p> |<p align="center"><img src="image/HW_Charger.png" width="300px"></p> |
 
 ## System
-<p align="center"><img src="image/system_architecture.png" width="800px"></p>  
+<p align="center"><img src="image/System_Architecture.png" width="800px"></p>  
 
 # Project Code 
 ## Motor Control
