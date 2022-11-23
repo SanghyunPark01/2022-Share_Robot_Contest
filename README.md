@@ -12,7 +12,7 @@ Quarantine & Security Robot
 [Jiwon Yang](https://github.com/ynji1) : Robot Navigation, Sensor Communication  
 [Sanghyun Park](https://github.com/SanghyunPark01) : Vision System, ROS Programming
 ## Contributer 
-[Ohyun Kwon](https://github.com/OhyunKwon99) : HardWare Design
+[Ohyun Kwon](https://github.com/OhyunKwon99)
 
 # Architecture
 ## Design
@@ -27,7 +27,8 @@ Quarantine & Security Robot
 ## Motor Control
 **On Going** 
 ## Docking
-[Yaw Estimation - Basic(non ROS)](https://github.com/SanghyunPark01/Yaw-Estimation)
+[Yaw Estimation - Basic(non ROS)](https://github.com/SanghyunPark01/Yaw-Estimation)  
+[Auto Docking System](https://github.com/SanghyunPark01/Auto-Docking-ROS)
 
 ## Dynamic Object Detection
 **On Going** 
