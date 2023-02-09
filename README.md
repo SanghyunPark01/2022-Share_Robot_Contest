@@ -26,21 +26,26 @@ Quarantine & Security Robot
 # Project Code 
 ## Motor Control
 **On Going** 
+
 ## Docking
 [Yaw Estimation - Basic(non ROS)](https://github.com/SanghyunPark01/Yaw-Estimation)  
 [Auto Docking System](https://github.com/SanghyunPark01/Auto-Docking-ROS)
 
 ## Dynamic Object Detection
-**On Going** 
+[Dynamic Object Detection](https://github.com/SanghyunPark01/dynamic_object_detection)
 
-## LiDAR SLAM
-**On Going** 
+## SLAM & Navigation
+[Odometry](https://github.com/Daidalos99/qsbot_odometry)  
+[Robot Navigation](https://github.com/Daidalos99/qsbot_navigation)
 
-## Robot Navigation
-**On Going** 
+## ROS System Integration
+[ROS system integration](https://github.com/SanghyunPark01/robot-core_system)
 
-## ALL System
-**On Going** 
+## Simulation
+[Robot Simulation](https://github.com/Daidalos99/qsbot_simulation)
+
+## Jetson GPIO ROS
+[Jetson GPIO ROS](https://github.com/SanghyunPark01/jetson-gpio-ros)
 
 # Result
 **On Going**
