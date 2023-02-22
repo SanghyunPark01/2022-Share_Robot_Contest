@@ -25,7 +25,7 @@ Quarantine & Security Robot
 
 # Project Code 
 ## Motor Control
-**On Going** 
+
 
 ## Docking
 [Yaw Estimation - Basic(non ROS)](https://github.com/SanghyunPark01/Yaw-Estimation)  
@@ -48,4 +48,4 @@ Quarantine & Security Robot
 [Jetson GPIO ROS](https://github.com/SanghyunPark01/jetson-gpio-ros)
 
 # Result
-**On Going**
+![qsbot_navigation](https://user-images.githubusercontent.com/95322972/217493273-fc2a4733-5f69-4dba-8d9e-5ee26a74222d.gif)
